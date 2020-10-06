@@ -1,1 +1,1 @@
-# guipeixoto-gostack-rocketseat
+# gostack-rocketseat
